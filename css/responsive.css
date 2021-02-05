@@ -1,0 +1,147 @@
+@media (max-width: 1100px) {
+    .header-cont{
+        max-width: 800px;
+    }
+    .map{
+        max-width: 800px;
+    }
+    .cont-info{
+        max-width: 800px;
+    }
+    .cont-info2{
+        max-width: 800px;
+    }
+    .lastline-flex{
+        max-width: 800px;
+    }
+    .cover-title{
+        max-width: 800px;  
+    }
+    .foot-text{
+        font-size: 12px;
+    }
+}
+@media (max-width: 767px) {
+    .header-cont{
+        max-width: 650px;
+    }
+    .map{
+        max-width: 650px;
+    }
+    .cont-info{
+        max-width: 650px;
+    }
+    .cont-info2{
+        max-width: 650px;
+    }
+    .lastline-flex{
+        max-width: 650px;
+    }
+    .cover-title{
+        max-width: 650px;  
+    }
+    .cont-info2{
+        display: flex;
+        flex-direction: column;
+        align-items: center; 
+    }
+    .rightlinks{
+        display: flex;
+        flex-direction: column;
+        align-items: center; 
+    }
+    .lastline-flex{
+        display: flex;
+        flex-direction: column;
+        align-items: center; 
+    }
+    .links2{
+        align-items: center;
+    }
+    .links{
+        align-items: center;
+    }
+    .left-foot{
+        text-align: center;
+    }
+    .foot-logos{
+        justify-content: space-around;
+    }
+    .logo1::before{
+        display: none;
+    }
+    .logo2::before{
+        display: none;
+    }
+    .logo3::before{
+        display: none;
+    }
+    .lastline-flex{
+        padding-top: 30px;
+    }
+    .usefullinks{
+        margin-top: 30px;
+    }
+    .link-title2{
+        color: #5863F8;
+    }
+} 
+@media (max-width: 740px) {
+    .burger{
+        display:block;
+    }
+    .navbar{
+        display: none;
+    }
+    .form{
+        display: flex;
+        flex-direction: column;
+  }    
+    .subject{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .name{
+        margin-bottom: 10px;
+    }
+    .email{
+        margin-bottom: 10px;
+    }
+    
+@media (max-width: 479px) {
+    .header-cont{
+        max-width: 350px;
+    }
+    .map{
+        max-width: 350px;
+    }
+    .cont-info{
+        max-width: 350px;
+    }
+    .cont-info2{
+        max-width: 350px;
+    }
+    .lastline-flex{
+        max-width: 350px;
+    }
+    .cover-title{
+        max-width: 350px;  
+    }
+    .section-box{
+        justify-content:space-around
+    }
+    .lastphotos{
+        display: flex;
+        flex-direction: column;
+    }
+    .photo{
+        max-width: none;
+    }
+    .lastline{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+}
+@media (max-width: 420px) {
+   
+}

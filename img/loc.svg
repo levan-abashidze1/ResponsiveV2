@@ -1,0 +1,7 @@
+<svg id="Component_8_1" data-name="Component 8 – 1" xmlns="http://www.w3.org/2000/svg" width="59" height="58" viewBox="0 0 59 58">
+  <ellipse id="Ellipse_27" data-name="Ellipse 27" cx="29.5" cy="29" rx="29.5" ry="29" fill="#5863f8"/>
+  <g id="map-pin" transform="translate(19.5 20)">
+    <path id="Path_27" data-name="Path 27" d="M16.128,7.564c0,5.105-6.564,9.481-6.564,9.481S3,12.669,3,7.564a6.564,6.564,0,1,1,13.128,0Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle id="Ellipse_17" data-name="Ellipse 17" cx="2.5" cy="2.5" r="2.5" transform="translate(7 5.046)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
